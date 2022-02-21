@@ -1,2 +1,2 @@
 # crypt
-for intern use
+tinkering & testing
