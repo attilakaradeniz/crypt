@@ -7,10 +7,7 @@ $(document).ready(function(){
     
     // let box = document.getElementsByClassName("boxes");
     
-    console.log("testos");
-    
-    
-    
+    console.log("test");
     
     box.mouseenter(function() {
         blip.play();
@@ -22,9 +19,6 @@ $(document).ready(function(){
         console.log("su an mouseover");
         
     });
-
-
-
 });
 
 
